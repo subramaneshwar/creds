@@ -1,0 +1,22 @@
+.five{
+    background-color: rgb(90, 30, 203);
+    color: rgb(248, 248, 248);
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding: 240px 200px 180px;
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/security-bg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+.five h1{
+    font-size: 5rem;
+}
+.tex{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.five p{
+    font-size: 1.5rem;
+}

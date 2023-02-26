@@ -1,0 +1,26 @@
+.third{
+    min-height: 100vh;
+    background: url("https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg");
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    padding-left: 150px;
+    color: white;
+
+}
+
+.third h1{
+    font-size: 5rem;
+}
+.third h2{
+    font-size: 2rem;
+}
+.third p {
+    font-size: 1.2rem;
+}
+.third button{
+    font-weight:bold ;
+}
